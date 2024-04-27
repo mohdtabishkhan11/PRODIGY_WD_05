@@ -29,7 +29,7 @@
 
 <p> <b> Languages Used: HTML, CSS, & JavaScript  </b> </p>
 <h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href="" target="_blank"> Here. </a></p>
+<p>This is preview of the project. You can visit live preview on <a href="https://awesome-weather1.netlify.app" target="_blank"> Here. </a></p>
 
 
 
